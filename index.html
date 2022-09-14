@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="./main.css">
+    <title>CRUD-F8</title>
+</head>
+
+<body>
+
+    <div class="main">
+        <h1 class="text-center mb-5">Danh sách khóa học</h1>
+        <ul>
+            <li id="list-coursres" class="row list"></li>
+        </ul>
+        <!-- =========button=========== -->
+        <div class="container text-center" id="btn">
+            <div class="row d-flex justify-content-center mb-2">
+                <div class="col-lg-4 mr-2">
+                    <label for="">Name</label>
+                    <input type="text" name="name" id="name" class="form-control form-control-md">
+                </div>
+                <div class="col-lg-4">
+                    <label for="">Description</label>
+                    <input type="text" name="description" id="description" class="form-control form-control-md">
+                </div>
+            </div>
+            <div class="row d-flex justify-content-center mb-5">
+                <div class="col-lg-4 mr-2">
+                    <label for="">Image-Course</label>
+                    <input type="text" name="imgCourse" id="imgCourse" class="form-control form-control-md">
+                </div>
+                <div class="col-lg-4">
+                    <label for="">Name teacher</label>
+                    <input type="text" name="nameTeacher" id="nameTeacher" class="form-control form-control-md">
+                </div>
+            </div>
+            <div class="row d-flex justify-content-center pb-5">
+                <button id="creat" class="col-lg-10 btn btn-info">Creat Courses</button>
+            </div>
+        </div>
+    </div>
+    <img src="" alt="">
+
+    <script src="./app.js"></script>
+</body>
+
+</html>

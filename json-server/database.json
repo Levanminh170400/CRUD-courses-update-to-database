@@ -1,0 +1,60 @@
+{
+  "courses": [
+    {
+      "src": "./assets/image-courses/html-va-css.jpg",
+      "name": "Build Responsive Real-World Websites with HTML and CSS",
+      "description": "Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid",
+      "id": 1,
+      "teacher": "Jonas Schmedtmann"
+    },
+    {
+      "src": "./assets/image-courses/javascript.jpg",
+      "id": 2,
+      "name": "The Complete JavaScript Course 2022: From Zero to Expert!",
+      "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+      "teacher": "Academind by Maximilian Schwarzmüller"
+    },
+    {
+      "src": "./assets/image-courses/reactJs.jpg",
+      "id": 3,
+      "name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+      "description": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
+      "teacher": "Andrei Neagoie"
+    },
+    {
+      "src": "./assets/image-courses/nodejs.png",
+      "id": 4,
+      "name": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+      "description": "Master Node JS & Deno.js, build REST APIs with Node.js, GraphQL APIs, add Authentication, use MongoDB, SQL & much more!",
+      "teacher": "Jonas Schmedtmann"
+    },
+    {
+      "src": "./assets/image-courses/linux-va-ubuntu-1.png",
+      "name": "Complete Linux Training Course to Get Your Dream IT Job 2022",
+      "description": "The BEST Linux Administration course that prepares you for corporate jobs and for RHCSA, RHCE, LFCS, CLNP certifications",
+      "id": 5,
+      "teacher": "Imran Afzal"
+    },
+    {
+      "src": "./assets/image-courses/python.png",
+      "id": 6,
+      "name": "Complete Python Developer in 2022: Zero to Mastery",
+      "description": "How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web Development, Machine Learning + more!",
+      "teacher": "Dr. Angela Yu"
+    },
+    {
+      "src": "./assets/image-courses/analist-data.jpg",
+      "name": "Data Analysis with Pandas and Python",
+      "description": "Analyze data quickly and easily with Python's powerful pandas library! All datasets included --- beginners welcome!",
+      "id": 7,
+      "teacher": "Kirill Eremenko"
+    },
+    {
+      "src": "./assets/image-courses/excel.png",
+      "name": "Teach Your Kids to Code: Learn to Program Python at Any Age!",
+      "description": "Short, colorful apps and games you can use to teach and learn programming at any age! Chromebook, PC, Mac and Linux!",
+      "id": 8,
+      "teacher": "Charly Pham"
+    }
+  ]
+}
